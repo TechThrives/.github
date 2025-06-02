@@ -43,3 +43,13 @@ We’re all about continuous improvement. Whether you're fixing a bug, writing d
 ## 🌍 Join the Movement
 If you're passionate about technology and believe in the power of community-driven development, Tech Thrives is your place.
 Come build, learn, and thrive with us.
+
+## 📄 License Notice
+
+© 2025 TechThrives. All rights reserved.
+
+This code and any derivative works are for personal and internal use only.
+
+**Commercial use, resale, redistribution, or republishing of this code is strictly prohibited without explicit written permission from the copyright holder.**
+
+This software is provided "as is," without warranty of any kind, express or implied. The copyright holder is not liable for any damages arising from its use.
